@@ -1,4 +1,4 @@
-# WordCraft
+# WordKraft
 
 **WordCraft** is a content creation platform designed for writers, bloggers, and storytellers. It provides a seamless, user-friendly interface for creating, sharing, and discovering meaningful stories and ideas, one word at a time.
 
